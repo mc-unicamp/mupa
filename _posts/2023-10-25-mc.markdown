@@ -1,0 +1,17 @@
+---
+title: Museu Exploratório de Ciências da UNICAMP
+layout: pages
+categories: ["mc"]
+---
+
+## Conhecendo uma Estação Meteorológica
+
+...
+
+## Praça Tempo-Espaço
+
+...
+
+## Ecosfera
+
+...

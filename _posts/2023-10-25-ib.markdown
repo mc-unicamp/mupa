@@ -1,0 +1,17 @@
+---
+title: Instituto de Biologia
+layout: pages
+categories: ["ib"]
+---
+
+## Museu de Diversidade Biológica - MDBio
+
+...
+
+## Orquídeas
+
+...
+
+## Centro de Pesquisa em Obesidade e Comorbidades (OCRC)
+
+...
