@@ -1,0 +1,15 @@
+<section id="services">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">11 de novembro (Sábado)</h2>
+                <h3>8h30 às 16h</h3>
+            </div>
+            {% for post in site.posts %}
+                {% if post.categories contains "main" %}
+                    <div class="page-details">{{ post.content }}</div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</section>

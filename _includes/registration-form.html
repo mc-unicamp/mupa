@@ -1,0 +1,190 @@
+<!-- Portfolio Grid Section -->
+<script>
+    function realizaDoacao() {
+      const required = ["equipe", "trilha", "nomeparticipante", "numerodocumento", "cep", "endereco", "bairro", "cidade", "uf", "celular", "email", "formapagamento", "valor"];
+      const fieldName = ["Nome da Equipe", "Trilha", "Nome Completo", "Número do Documento", "CEP", "Endereço", "Bairro", "Cidade", "UF", "Celular", "Email", "Forma de Pagamento", "Valor"];
+
+      let d = new Date();
+
+      let dia = d.getDay().toString();
+      let mes = d.getMonth().toString();
+      let ano = d.getYear().toString();
+      let h = d.getHours().toString();
+      let m = d.getMinutes().toString();
+      let s = d.getSeconds().toString();
+
+      let chave = Math.floor(Math.random() * (9000 - 1 + 1)) + 1;
+      let strchave = dia + mes + h + m + s + chave.toString();
+
+      document.querySelector("#numeropedido").value = strchave;
+
+      let emptyField = -1;
+      for (let r in required) {
+        let field = document.querySelector("#" + required[r]);
+        console.log(field.value);
+        if (field.value.trim().length == 0) {
+          emptyField = r
+          break
+        }
+      }
+      if (emptyField == -1) {
+        document.querySelector('#nome').value =
+          document.querySelector('#nomeparticipante').value + " - " +
+          document.querySelector('#equipe').value + " - " +
+          document.querySelector('#trilha').value
+
+        document.querySelector('#descricao').value =
+          "Inscrição no Grande Desafio 2023 da equipe: " +
+          document.querySelector('#equipe').value + " na Trilha " +
+          document.querySelector('#trilha').value
+
+        document.querySelector("#formulario-pagamento").submit();
+      } else
+        document.querySelector("#mensagem-erro").innerHTML = "O campo " +
+          fieldName[emptyField] + " é obrigatório";
+    }
+  </script>
+
+  <!-- Create a section to place page content -->
+  <main role="main">
+    <div class="d-flex flex-column vh-100 vw-100 hidden-overflow formulario-principal">
+
+      <div class="h-100 w-100 create-case-padding scroll-y">
+        <h1>Pagamento da Inscrição no Grande Desafio 2023</h1>
+
+        Antes de realizar o pagamento, você deve preencher o formulário de inscrição. 
+        Se a equipe se inscrever em ambas as trilhas (exploratória e experimental), deve ser feito um pagamento para cada trilha.
+        Há possibilidade de pagamento por boleto ou cartão.
+
+        <div class="row" style="padding-bottom: 70px;">
+          <div class="col-md-6">
+            <div class="form-group">
+              <label for="equipe">Nome da Equipe<span class="required"> (*)</span></label>
+              <input type="text" class="form-control" id="equipe" name="equipe" placeholder="Informe o nome da equipe">
+            </div>
+            <div class="form-group">
+              <label for="trilha">Trilha<span class="required"> (*)</span></label>
+              <select id="trilha" name="trilha" style="width:300px;">
+                <option value="" selected="selected">Selecione</option>
+                <option value="Experimental">Trilha Experimental</option>
+                <option value="Exploratória">Trilha Exploratória</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="nomeparticipante">Nome Completo<span class="required"> (*)</span></label>
+              <input type="text" class="form-control" id="nomeparticipante" name="nomeparticipante" placeholder="Informe o nome do pagante (usualmente o orientador)">
+            </div>
+          <form id="formulario-pagamento" action="https://www.funcamp.unicamp.br/portaleventos/WebAPI/Inscricao">
+              <input type="hidden" id="identificador" name="identificador" value="PROD750164c839119fa419d91d753a754894aef">
+              <input type="hidden" id="descricao" name="descricao" value="">
+              <input type="hidden" id="pais" name="pais" value="Brasil">
+              <input type="hidden" id="datavencimento" name="datavencimento" value="">
+              <input type="hidden" id="redirect" name="redirect" value="S">
+              <input type="hidden" id="notificarporemail" name="notificarporemail" value="S">
+              <input type="hidden" id="flagprecificarporevento" name="flagprecificarporevento" value="N">
+              <input type="hidden" id="flagvalidarpagador" name="flagvalidarpagador" value="N">
+              <input type="hidden" id="flagpossuilotes" name="flagpossuilotes" value="N">
+              <input type="hidden" id="flagpossuitemas" name="flagpossuitemas" value="N">
+              <input type="hidden" id="numeropedido" name="numeropedido">
+              <input type="hidden" id="tipoderetorno" name="tipoderetorno" value="resumo">
+
+              <input type="hidden" id="nome" name="nome" value="">
+
+              <div class="form-group">
+                <label for="tipodocumento">Tipo de Documento<span class="required"> (*)</span></label>
+                <select id="tipodocumento" name="tipodocumento" style="width:200px;">
+                    <option value="CPF" selected="selected">CPF</option>
+                    <option value="CNPJ">CNPJ</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="numerodocumento">Número do Documento<span class="required"> (*)</span></label>
+                <input type="text" class="form-control" placeholder="Informe o número de documento" id="numerodocumento" name="numerodocumento">
+              </div>
+              <div class="form-group">
+                <label>CEP<span class="required">(*)</span></label>
+                <input title="Exemplo: 13083-851" class="form-control" placeholder="Informe o CEP" name="cep" id="cep" style="width:155px;">
+              </div>
+              <div class="form-group">
+                <label>Endereço<span class="required">(*)</span></label>
+                <input type="text" class="form-control" placeholder="Informe seu endereço" name="endereco" id="endereco">
+              </div>
+              <div class="form-group">
+                <label>Número</label>
+                <input type="text" class="form-control" placeholder="Número" name="numero" id="numero" style="width:80px;">
+              </div>
+              <div class="form-group">
+                <label>Bairro<span class="required">(*)</span></label>
+                <input type="text" class="form-control" placeholder="Informe o bairro" name="bairro" id="bairro" maxlength="72">
+              </div>
+              <div class="form-group">
+                <label>Cidade<span class="required">(*)</span></label>
+                <input type="text" class="form-control" placeholder="Informe a cidade" name="cidade" id="cidade" maxlength="60">
+              </div>
+              <div class="form-group">
+                <label>Estado<span class="required">(*)</span></label>
+                <select name="uf" id="uf" class="form-control" style="width: 155px;">
+                    <option value="">Selecione</option>
+                    <option value="AC">Acre</option>
+                    <option value="AL">Alagias</option>
+                    <option value="AM">Amazonas</option>
+                    <option value="AP">Amapá</option>
+                    <option value="BA">Bahia</option>
+                    <option value="CE">Ceará</option>
+                    <option value="DF">Distrito Federal</option>
+                    <option value="ES">Espirito Santo</option>
+                    <option value="GO">Goiás</option>
+                    <option value="MA">Manaus</option>
+                    <option value="MG">Minas Gerais</option>
+                    <option value="MS">Mato Grosso do Sul</option>
+                    <option value="MT">Mato Grosso</option>
+                    <option value="PA">Pará</option>
+                    <option value="PB">Paraíba</option>
+                    <option value="PE">Pernambuco</option>
+                    <option value="PI">Píaui</option>
+                    <option value="PR">Paraná</option>
+                    <option value="RJ">Rio de Janeiro</option>
+                    <option value="RN">Rio Grande do Norte</option>
+                    <option value="RS">Rio Grande do Sul</option>
+                    <option value="RO">Rondônia</option>
+                    <option value="RR">Roraima</option>
+                    <option value="SC">Santa Catarina</option>
+                    <option value="SE">Sergipe</option>
+                    <option value="SP">São Paulo</option>
+                    <option value="TO">Tocantins</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="celular">Celular com DDD<span class="required">(*)</span></label>
+                <input type="text" class="form-control" id="celular" name="celular" placeholder="Celular com DDD">
+              </div>
+              <div class="form-group">
+                <label for="email">E-mail<span class="required">(*)</span></label>
+                <input type="text" class="form-control" id="email" name="email" placeholder="E-mail">
+              </div>
+              <div class="form-group">
+                <label for="formapagamento">Forma de Pagamento<span class="required"> (*)</span></label>
+                <select id="formapagamento" name="formapagamento" style="width:200px;">
+                  <option value="" selected="selected">Selecione</option>
+                  <option value="10">Cartão</option>
+                  <option value="2">Boleto</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="valor">Valor<span class="required"> (*)</span></label>
+                <select id="valor" name="valor" style="width:300px;">
+                  <option value="" selected="selected">Selecione</option>
+                  <option value="90">Equipe de Instituição Particular: R$ 90</option>
+                  <option value="30">Equipe de Instituição Pública: R$ 30</option>
+                </select>
+              </div>
+              <h2 id="mensagem-erro" style="color:Red"></h2>
+              <a class="btn btn-primary" role="button" onclick="realizaDoacao()">Pagar</a>
+            </form>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </main>
+  <!-- end of div /.container -->

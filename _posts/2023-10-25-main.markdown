@@ -1,0 +1,10 @@
+---
+title: Página Principal
+layout: default
+categories: ["main"]
+---
+
+Convidamos toda a comunidade para o II MUPA (Museus da Unicamp de Portas Abertas).
+Veja a programação detalhada a seguir. O acesso ao evento é livre e gratuito. 
+Haverá um ônibus circulando pela Unicamp por todos os locais do evento.
+

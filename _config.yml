@@ -1,0 +1,38 @@
+# Site settings
+title: MUPA 2023
+email:
+description: "Site da MUPA 2023."
+
+# Team names, titles and social links
+people:
+- name: André Santanchè
+  pic: 1
+  position: Director
+  social:
+    - title: twitter
+      url: https://twitter.com/santanche
+    - title: facebook
+      url: https://www.facebook.com/andre.santanche/
+    - title: instagram
+      url: https://www.instagram.com/andre.santanche/
+    - title: github
+      url: https://github.com/santanche/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/MC_Unicamp
+  - title: facebook
+    url: https://www.facebook.com/mcunicamp/
+  - title: instagram
+    url: https://www.instagram.com/mcunicamp/
+  - title: github
+    url: https://github.com/mc-unicamp/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
