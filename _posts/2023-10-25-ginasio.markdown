@@ -4,6 +4,4 @@ layout: pages
 categories: ["ginasio"]
 ---
 
-## Ginásio
-
-...
+<img src="../img/mapa-gd-2023.png">
