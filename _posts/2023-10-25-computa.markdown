@@ -1,9 +1,0 @@
----
-title: Instituto de Biologia
-layout: pages
-categories: ["computa"]
----
-
-## Museu de Informática da Unicamp
-
-...
