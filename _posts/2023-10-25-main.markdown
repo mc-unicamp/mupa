@@ -16,7 +16,6 @@ Haverá um ônibus circulando pela Unicamp por todos os locais do evento.
 
 <table>
 <tr style="border: 3px solid black">
-<th style="border: 3px solid black; padding: 6px"><a href="./ginasio/">Ginásio</a></th>
 <th style="border: 3px solid black; padding: 6px"><a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.oky80rtjz7g8">Geociências</a></th>
 <th style="border: 3px solid black; padding: 6px"><a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.c3bairaval2g">Museu Exploratório</a></th>
 <th style="border: 3px solid black; padding: 6px"><a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.ymkrf2fxdj3z">Matemática</a></th>
@@ -25,21 +24,11 @@ Haverá um ônibus circulando pela Unicamp por todos os locais do evento.
 <th style="border: 3px solid black; padding: 6px"><a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.lexywrvbvtu9">Física</a></th>
 <th style="border: 3px solid black; padding: 6px"><a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.e65owivhg6e8">Química</a></th>
 <th style="border: 3px solid black; padding: 6px"><a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.7tsbda1zf4hg">Biologia</a></th>
-</tr>
-<tr>
-<td style="border: 3px solid black; padding: 6px">&nbsp;</td>
-<td style="border: 3px solid black; padding: 6px">&nbsp;</td>
-<td style="border: 3px solid black; padding: 6px">&nbsp;</td>
-<td style="border: 3px solid black; padding: 6px">&nbsp;</td>
-<td style="border: 3px solid black; padding: 6px">&nbsp;</td>
-<td style="border: 3px solid black; padding: 6px">&nbsp;</td>
-<td style="border: 3px solid black; padding: 6px">&nbsp;</td>
-<td style="border: 3px solid black; padding: 6px">&nbsp;</td>
-<td style="border: 3px solid black; padding: 6px">&nbsp;</td>
+<th style="border: 3px solid black; padding: 6px"><a href="./ginasio/">Ginásio</a></th>
 </tr>
 </table>
 
 {% include mupa-mapa-2023.svg %}
 <!-- <img src="img/mupa-mapa-2023.svg"> -->
 
-<div style="width:800px;margin:auto"><iframe src="https://www.google.com/maps/d/embed?mid=1GP0p5RxvW02-XPxeWW2O9gye9QZa9S0&ehbc=2E312F" width="800px" height="600px"></iframe></div>
+<div style="width:800px;margin:auto"><iframe src="https://www.google.com/maps/d/embed?mid=1GP0p5RxvW02-XPxeWW2O9gye9QZa9S0&ehbc=2E312F&z=16" width="800px" height="600px"></iframe></div>
