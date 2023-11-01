@@ -31,4 +31,4 @@ Haverá um ônibus circulando pela Unicamp por todos os locais do evento.
 {% include mupa-mapa-2023.svg %}
 <!-- <img src="img/mupa-mapa-2023.svg"> -->
 
-<div style="width:800px;margin:auto"><iframe src="https://www.google.com/maps/d/embed?mid=1GP0p5RxvW02-XPxeWW2O9gye9QZa9S0&ehbc=2E312F&z=16" width="800px" height="600px"></iframe></div>
+<div style="width:800px;margin:auto"><iframe src="https://www.google.com/maps/d/embed?mid=1GP0p5RxvW02-XPxeWW2O9gye9QZa9S0&ehbc=2E312F&z=16" center="-22.81684,-47.06625" width="800px" height="600px"></iframe></div>

@@ -4,14 +4,30 @@ layout: pages
 categories: ["mc"]
 ---
 
+<table><tr><td style="cursor:pointer" onclick="history.back()">[Retornar]</td></tr></table>
+
 ## Conhecendo uma Estação Meteorológica
 
-...
+| Horário | Faixa etária |
+|---------|--------------|
+| 9h-12h | Livre para todas as idades |
+| 13h-16h | Livre para todas as idades |
+| ===> [Saiba Mais](https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.8xyo2l512hrw) |
+
+<br>
 
 ## Praça Tempo-Espaço
 
-...
+| Horário | Faixa etária |
+|---------|--------------|
+| 8h30-16h30 | Livre para todas as idades |
+| ===> [Saiba Mais](https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.z0wr4kxt2zta) |
+
+<br>
 
 ## Ecosfera
 
-...
+| Horário | Faixa etária |
+|---------|--------------|
+| 8h30-16h30 | Livre para todas as idades |
+| ===> [Saiba Mais](https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.kf4a1efkg9ro) |
