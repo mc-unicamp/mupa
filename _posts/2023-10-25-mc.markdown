@@ -4,15 +4,13 @@ layout: pages
 categories: ["mc"]
 ---
 
-<table><tr><td style="cursor:pointer" onclick="history.back()">[Retornar]</td></tr></table>
-
 ## Conhecendo uma Estação Meteorológica
 
 | Horário | Faixa etária |
 |---------|--------------|
 | 9h-12h | Livre para todas as idades |
 | 13h-16h | Livre para todas as idades |
-| ===> [Saiba Mais](https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.8xyo2l512hrw) |
+| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.8xyo2l512hrw"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
 
 <br>
 
@@ -21,7 +19,7 @@ categories: ["mc"]
 | Horário | Faixa etária |
 |---------|--------------|
 | 8h30-16h30 | Livre para todas as idades |
-| ===> [Saiba Mais](https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.z0wr4kxt2zta) |
+| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.z0wr4kxt2zta"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
 
 <br>
 
@@ -30,4 +28,4 @@ categories: ["mc"]
 | Horário | Faixa etária |
 |---------|--------------|
 | 8h30-16h30 | Livre para todas as idades |
-| ===> [Saiba Mais](https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.kf4a1efkg9ro) |
+| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.kf4a1efkg9ro"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |

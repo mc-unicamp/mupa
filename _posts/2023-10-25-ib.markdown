@@ -6,7 +6,10 @@ categories: ["ib"]
 
 ## Museu de Diversidade Biológica - MDBio
 
-...
+| Horário | Faixa etária |
+|---------|--------------|
+| 9h-16h | Livre para todas as idades |
+| ===> [Saiba Mais](https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.7tsbda1zf4hg) |
 
 ## Orquídeas
 
