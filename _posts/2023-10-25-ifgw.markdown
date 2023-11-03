@@ -6,4 +6,40 @@ categories: ["ifgw"]
 
 ## Instituto de Física Gleb Wataghin
 
-...
+### Visitas Guiadas a Laboratórios
+
+| Horário | Faixa etária |
+|---------|--------------|
+| 8h30-11h30 | Livre para a todas as idades |
+| **Laboratórios para conhecer:** |
+| * Comunicações ópticas | * Cronologia |
+| * Eletromagnetismo Aplicado e Computacional | * Física Médica |
+| * Fotônica quântica integrada | * Instrumentação para o Ensino de Física || 
+| * Luz quântica integrada | * Materiais e Baixas Temperaturas |
+| * Neurofísica | * Optomecânica |
+| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.lexywrvbvtu9"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+### Projetos de Extensão
+
+| Horário | Faixa etária |
+|---------|--------------|
+| 8h30-11h30 | Livre para a todas as idades |
+| **Projetos para conhecer:** |
+| * Desmistificando a Aviação | * Quiz do IFGW |
+| * Telescópio Solar | * Podcast Científico |
+| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.q4jyj377c5po"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+### Show da Física
+
+| Horário | Faixa etária |
+|---------|--------------|
+| 9h-10h30 | Livre para a todas as idades |
+| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.obczxo8tjkkz"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+### Palestras
+
+| Horário | Palestra | Faixa etária |
+|---------|----------|--------------|
+| 10h45 às 11h15 | Física dos Astros | A partir de 10 anos |
+| 11h30 às 12h30 | Física para curiosos: Um Empurrão Luminoso! | A partir de 10 anos |
+| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.66hr1fo6s53n"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
