@@ -4,18 +4,18 @@ layout: pages
 categories: ["ig"]
 ---
 
-## Instituto de Geociências (IG)
-
-### Exposição “Meteoritos & Crateras: Os Perigos das Rochas Vindas do Espaço”
+## Exposição “Meteoritos & Crateras: Os Perigos das Rochas Vindas do Espaço”
 
 | Horário | Faixa etária |
 |---------|--------------|
 | 8h-15h | A partir de 11 anos |
 | <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.oky80rtjz7g8"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
 
-### Programa Tempo Profundo
+<br>
 
-#### Oficina de Escavação de Fósseis
+## Programa Tempo Profundo
+
+### Oficina de Escavação de Fósseis
 
 Esta oficina requer inscrição (veja link).
 
@@ -26,14 +26,18 @@ Esta oficina requer inscrição (veja link).
 | 11h | 3 a 4 anos | <a href="https://forms.gle/zuE8rj1eGdTgMiGr7" target="_blank">inscrição</a> |
 | <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.it3fgeduge6m"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
 
-#### Atividade de Musicalização
+<br>
+
+### Atividade de Musicalização
 
 | Horário | Faixa etária |
 |---------|--------------|
 | 11h | Livre para todas as idades |
 | <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.it3fgeduge6m"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
 
-#### Oficinas Diversas
+<br>
+
+### Oficinas Diversas
 
 Algumas oficinas requerem inscrição (veja link).
 
@@ -46,7 +50,9 @@ Algumas oficinas requerem inscrição (veja link).
 | Origamis fósseis e suas histórias | 15h | 10 a 14 anos | <a href="https://forms.gle/C78z7VJ6quvHjFU39" target="_blank">inscrição</a> |
 | <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.guy52kmo88yu"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
 
-#### Pintura Facial
+<br>
+
+### Pintura Facial
 
 | Horário | Faixa etária | Vagas |
 |---------|--------------|-------|

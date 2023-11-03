@@ -4,8 +4,6 @@ layout: pages
 categories: ["iq"]
 ---
 
-## Instituto de Química
-
 ### Oficina A Química do Sorvete
 
 | Horário | Local | Vagas | Faixa etária |
@@ -17,6 +15,7 @@ categories: ["iq"]
 | 14h30 às 15h30 | Laboratório de Ensino | 30 | Livre para todas as idades |
 | <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.e65owivhg6e8"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
 
+<br>
 
 ### Oficina Jogo das moléculas
 
@@ -24,6 +23,8 @@ categories: ["iq"]
 |---------|--------------|
 | 8h30-15h  | Livre para todas as idades |
 | <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.ycdahk6irrpp"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+<br>
 
 ### Oficina Luminescência Molecular
 

@@ -18,19 +18,25 @@ Haverá um ônibus circulando pela Unicamp por todos os locais do evento.
 
 <br>
 
-<table>
+<table style="margin-left:auto; margin-right:auto">
 <tr style="border: 3px solid black">
-<th style="border: 3px solid black; padding: 6px"><a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.oky80rtjz7g8">Geociências</a></th>
+<th style="border: 3px solid black; padding: 6px"><a href="./ig/">Geociências</a></th>
 <th style="border: 3px solid black; padding: 6px"><a href="./mc/">Museu Exploratório</a></th>
-<th style="border: 3px solid black; padding: 6px"><a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.ymkrf2fxdj3z">Matemática</a></th>
+<th style="border: 3px solid black; padding: 6px"><a href="./imecc/">Matemática</a></th>
+</tr>
+<tr style="border: 3px solid black">
 <th style="border: 3px solid black; padding: 6px"><a href="./plasma/">Plasma</a></th>
-<th style="border: 3px solid black; padding: 6px"><a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.y9e4e7d81zbw">Computação</a></th>
-<th style="border: 3px solid black; padding: 6px"><a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.lexywrvbvtu9">Física</a></th>
-<th style="border: 3px solid black; padding: 6px"><a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.e65owivhg6e8">Química</a></th>
-<th style="border: 3px solid black; padding: 6px"><a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.7tsbda1zf4hg">Biologia</a></th>
+<th style="border: 3px solid black; padding: 6px"><a href="./informatica/">Museu da Informática</a></th>
+<th style="border: 3px solid black; padding: 6px"><a href="./ifgw/">Física</a></th>
+</tr>
+<tr style="border: 3px solid black">
+<th style="border: 3px solid black; padding: 6px"><a href="./iq/">Química</a></th>
+<th style="border: 3px solid black; padding: 6px"><a href="./ib/">Biologia</a></th>
 <th style="border: 3px solid black; padding: 6px"><a href="./ginasio/">Ginásio</a></th>
 </tr>
 </table>
+
+<br>
 
 <div style="width:800px;margin:auto"><iframe src="https://www.google.com/maps/d/embed?mid=1GP0p5RxvW02-XPxeWW2O9gye9QZa9S0&ehbc=2E312F&z=16" center="-22.81684,-47.06625" width="800px" height="600px"></iframe></div>
 

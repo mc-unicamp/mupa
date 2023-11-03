@@ -4,8 +4,6 @@ layout: pages
 categories: ["informatica"]
 ---
 
-## Museu de Informática da Unicamp
-
 | Horário | Faixa etária |
 |---------|--------------|
 | 9h-15h | A partir de 11 anos |

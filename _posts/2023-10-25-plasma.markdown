@@ -4,6 +4,18 @@ layout: pages
 categories: ["plasma"]
 ---
 
-## PLASMA
+### Oficina de Montagem de Foguete MDF e Visita ao Plasma
 
-...
+| Horário | Faixa etária |
+|---------|--------------|
+| 8h30-16h | A partir de 7 anos |
+| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.tmkp76jn9ch0"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+<br>
+
+### Oficina de Lançamento de Foguetes
+
+| Horário | Faixa etária |
+|---------|--------------|
+| 8h30-16h30 | A partir de 7 anos |
+| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.v06c44qoezo7"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |

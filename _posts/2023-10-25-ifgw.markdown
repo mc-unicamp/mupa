@@ -4,9 +4,7 @@ layout: pages
 categories: ["ifgw"]
 ---
 
-## Instituto de Física Gleb Wataghin
-
-### Visitas Guiadas a Laboratórios
+## Visitas Guiadas a Laboratórios
 
 | Horário | Faixa etária |
 |---------|--------------|
@@ -19,7 +17,9 @@ categories: ["ifgw"]
 | * Neurofísica | * Optomecânica |
 | <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.lexywrvbvtu9"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
 
-### Projetos de Extensão
+<br>
+
+## Projetos de Extensão
 
 | Horário | Faixa etária |
 |---------|--------------|
@@ -29,14 +29,18 @@ categories: ["ifgw"]
 | * Telescópio Solar | * Podcast Científico |
 | <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.q4jyj377c5po"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
 
-### Show da Física
+<br>
+
+## Show da Física
 
 | Horário | Faixa etária |
 |---------|--------------|
 | 9h-10h30 | Livre para a todas as idades |
 | <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.obczxo8tjkkz"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
 
-### Palestras
+<br>
+
+## Palestras
 
 | Horário | Palestra | Faixa etária |
 |---------|----------|--------------|

@@ -29,3 +29,12 @@ categories: ["mc"]
 |---------|--------------|
 | 8h30-16h30 | Livre para todas as idades |
 | <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.kf4a1efkg9ro"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+<br>
+
+## Espetáculo Teatral "Plástico, um mito contemporâneo"
+
+| Horário | Faixa etária |
+|---------|--------------|
+| 17h00 - 18h15 | Livre para todas as idades |
+| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.wsejtnz6ece2"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |

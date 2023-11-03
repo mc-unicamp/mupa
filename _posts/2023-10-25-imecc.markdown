@@ -4,8 +4,6 @@ layout: pages
 categories: ["imecc"]
 ---
 
-## Instituto de Matemática, Estatística e Computação Científica (IMECC)
-
 ### Saguão de Jogos
 
 | Horário | Faixa etária |
