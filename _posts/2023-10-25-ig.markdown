@@ -22,8 +22,8 @@ Esta oficina requer inscrição (veja link).
 | Horário | Faixa etária | Link de Inscrição |
 |---------|--------------|-------------------|
 | 9h | 3 a 4 anos | <a href="https://forms.gle/L8c37773KdL87NQr5" target="_blank">inscrição</a> |
-| 10h | 3 a 4 anos | <a href="https://forms.gle/ebNC2fXpZMX5FNUd7" target="_blank">inscrição</a> |
-| 11h | 3 a 4 anos | <a href="https://forms.gle/zuE8rj1eGdTgMiGr7" target="_blank">inscrição</a> |
+| 10h | 5 a 6 anos | <a href="https://forms.gle/ebNC2fXpZMX5FNUd7" target="_blank">inscrição</a> |
+| 11h | 7 a 8 anos | <a href="https://forms.gle/zuE8rj1eGdTgMiGr7" target="_blank">inscrição</a> |
 | <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.it3fgeduge6m"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
 
 <br>
