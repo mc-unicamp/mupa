@@ -1,0 +1,8 @@
+---
+title: SOBRE
+layout: pages
+categories: ["sobre"]
+---
+
+<a href='https://dryicons.com/icon/hand-finger-pointer-icon-with-dot-and-circle-9883'> Icon by Dryicons </a>
+<a href='https://dryicons.com/icon/hand-finger-pointer-icon-9882'> Icon by Dryicons </a>
