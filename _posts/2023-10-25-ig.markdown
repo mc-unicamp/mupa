@@ -8,7 +8,7 @@ categories: ["ig"]
 
 | Horário | Faixa etária |
 |---------|--------------|
-| 8h-15h | A partir de 11 anos |
+| 8h-15h | Livre para todas as idades |
 | <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.oky80rtjz7g8"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
 
 <br>
