@@ -9,7 +9,10 @@ categories: ["ig"]
 | Horário | Faixa etária |
 |---------|--------------|
 | 8h-15h | Livre para todas as idades |
-| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.oky80rtjz7g8"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+<table><tr><td>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.oky80rtjz7g8"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
+</td></tr></table>
 
 <br>
 
@@ -17,14 +20,17 @@ categories: ["ig"]
 
 ### Oficina de Escavação de Fósseis
 
-Esta oficina requer inscrição (veja link).
+*Esta oficina requer inscrição (veja link).*
 
 | Horário | Faixa etária | Link de Inscrição |
 |---------|--------------|-------------------|
 | 9h | 3 a 4 anos | <a href="https://forms.gle/L8c37773KdL87NQr5" target="_blank">inscrição</a> |
 | 10h | 5 a 6 anos | <a href="https://forms.gle/ebNC2fXpZMX5FNUd7" target="_blank">inscrição</a> |
 | 11h | 7 a 8 anos | <a href="https://forms.gle/zuE8rj1eGdTgMiGr7" target="_blank">inscrição</a> |
-| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.it3fgeduge6m"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+<table><tr><td>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.it3fgeduge6m"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
+</td></tr></table>
 
 <br>
 
@@ -33,13 +39,16 @@ Esta oficina requer inscrição (veja link).
 | Horário | Faixa etária |
 |---------|--------------|
 | 11h | Livre para todas as idades |
-| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.it3fgeduge6m"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+<table><tr><td>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.it3fgeduge6m"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
+</td></tr></table>
 
 <br>
 
 ### Oficinas Diversas
 
-Algumas oficinas requerem inscrição (veja link).
+*Algumas oficinas requerem inscrição (veja link).*
 
 | Oficina | Horário | Faixa etária | Link de Inscrição |
 |---------|---------|--------------|-------------------|
@@ -48,7 +57,10 @@ Algumas oficinas requerem inscrição (veja link).
 | Roda de conversa sobre Curiosidades dos Dinossauros | 14h15 | Livre para todas as idades | sem inscrição |
 | Qual é o dino? | 15h | 9 a 14 anos | <a href="https://forms.gle/aAWwqyBs4ZFijrkH7" target="_blank">inscrição</a> |
 | Origamis fósseis e suas histórias | 15h | 10 a 14 anos | <a href="https://forms.gle/C78z7VJ6quvHjFU39" target="_blank">inscrição</a> |
-| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.guy52kmo88yu"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+<table><tr><td>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.guy52kmo88yu"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
+</td></tr></table>
 
 <br>
 
@@ -57,4 +69,7 @@ Algumas oficinas requerem inscrição (veja link).
 | Horário | Faixa etária | Vagas |
 |---------|--------------|-------|
 | 13h-16h | crianças | 50 |
-| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.guy52kmo88yu"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+<table><tr><td>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.guy52kmo88yu"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
+</td></tr></table>

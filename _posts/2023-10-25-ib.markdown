@@ -9,7 +9,10 @@ categories: ["ib"]
 | Horário | Faixa etária |
 |---------|--------------|
 | 8h30-16h | Livre para todas as idades |
-| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.7tsbda1zf4hg"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+<table><tr><td>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.7tsbda1zf4hg"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
+</td></tr></table>
 
 <br>
 
@@ -18,23 +21,31 @@ categories: ["ib"]
 | Horário | Faixa etária |
 |---------|--------------|
 | 8h30-16h  | Livre para todas as idades |
-| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.gj80pfh49h8o"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+<table><tr><td>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.gj80pfh49h8o"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
+</td></tr></table>
 
 <br>
 
 ## Orquídeas
 
-| Horário | Oficina | Vagas | Faixa etária |
-|---------|---------|-------|--------------|
-| 10h     | Polinização e os segredos das flores de orquídeas | 25 | Livre para todas as idades |
-| 10h30   | Conhecendo as orquídeas para cultivá-las          | 25 | Livre para todas as idades |
-| 11h     | Polinização e os segredos das flores de orquídeas | 25 | Livre para todas as idades |
-| 11h30   | Conhecendo as orquídeas para cultivá-las          | 25 | Livre para todas as idades |
-| 14h     | Polinização e os segredos das flores de orquídeas | 25 | Livre para todas as idades |
-| 14h30   | Conhecendo as orquídeas para cultivá-las          | 25 | Livre para todas as idades |
-| 15h     | Polinização e os segredos das flores de orquídeas | 25 | Livre para todas as idades |
-| 15h30   | Conhecendo as orquídeas para cultivá-las          | 25 | Livre para todas as idades |
-| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.xz7alh9wpez"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+*Atenção vagas limitadas.*
+
+| Horário | Oficina | Faixa etária |
+|---------|---------|--------------|
+| 10h     | Polinização e os segredos das flores de orquídeas | Livre para todas as idades |
+| 10h30   | Conhecendo as orquídeas para cultivá-las          | Livre para todas as idades |
+| 11h     | Polinização e os segredos das flores de orquídeas | Livre para todas as idades |
+| 11h30   | Conhecendo as orquídeas para cultivá-las          | Livre para todas as idades |
+| 14h     | Polinização e os segredos das flores de orquídeas | Livre para todas as idades |
+| 14h30   | Conhecendo as orquídeas para cultivá-las          | Livre para todas as idades |
+| 15h     | Polinização e os segredos das flores de orquídeas | Livre para todas as idades |
+| 15h30   | Conhecendo as orquídeas para cultivá-las          | Livre para todas as idades |
+
+<table><tr><td>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.xz7alh9wpez"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
+</td></tr></table>
 
 <br>
 
@@ -47,7 +58,10 @@ categories: ["ib"]
 | 9h-10h  | 8 a 10 anos  |
 | 10h15-11h15 | a partir de 11 anos |
 | 11h30-12h30 | 8 a 10 anos |
-| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.vgtbgznu7cey"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+<table><tr><td>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.vgtbgznu7cey"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
+</td></tr></table>
 
 <br>
 
@@ -58,4 +72,7 @@ categories: ["ib"]
 | 9h-10h  | 8 a 10 anos  |
 | 10h15-11h15 | a partir de 11 anos |
 | 11h30-12h30 | 8 a 10 anos |
-| <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.dhxth4tkygok"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a> |
+
+<table><tr><td>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.dhxth4tkygok"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
+</td></tr></table>
