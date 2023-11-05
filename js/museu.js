@@ -28,6 +28,7 @@ class Museu {
     const target = document.getElementById(id)
     target.setAttribute('transform-origin', center)
     target.setAttribute('transform', 'scale(5, 5)')
+    setInterval(this.out(id, center), 1000)
   }
 }
 
