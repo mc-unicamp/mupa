@@ -28,7 +28,7 @@ class Museu {
     const target = document.getElementById(id)
     target.setAttribute('transform-origin', center)
     target.setAttribute('transform', 'scale(5, 5)')
-    setInterval(function () {Museu.i.out(id, center)}, 10)
+    setInterval(function () {Museu.i.out(id, center)}, 50)
   }
 }
 
