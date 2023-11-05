@@ -1659,7 +1659,8 @@
    id="center_mc"
    cx="698.31445"
    cy="418.80063"
-   r="4.895432" /><a
+   r="4.895432" />
+   <a
    id="a4548"
    xlink:href="mc/">
     <g
@@ -1690,4 +1691,5 @@
    style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.850394;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
-   </a></g></svg>
+   </a>
+   </g></svg>
