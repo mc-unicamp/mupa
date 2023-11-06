@@ -42,7 +42,9 @@ categories: ["ifgw"]
 
 | Horário | Faixa etária |
 |---------|--------------|
-| 9h-10h30 | Livre para a todas as idades |
+|  8h30-9h15  | Livre para todas as idades |
+|  9h25-10h10 | Livre para todas as idades |
+| 10h20-11h25 | Livre para todas as idades |
 
 <table><tr><td>
 <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.obczxo8tjkkz"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>

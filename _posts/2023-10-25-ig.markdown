@@ -41,7 +41,7 @@ categories: ["ig"]
 | 11h | Livre para todas as idades |
 
 <table><tr><td>
-<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.it3fgeduge6m"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.uk1mzqreu8g1"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
 </td></tr></table>
 
 <br>
@@ -59,7 +59,7 @@ categories: ["ig"]
 | Origamis fósseis e suas histórias | 15h | 10 a 14 anos | <a href="https://forms.gle/C78z7VJ6quvHjFU39" target="_blank">inscrição</a> |
 
 <table><tr><td>
-<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.guy52kmo88yu"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.hoz22s5ixxy9"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
 </td></tr></table>
 
 <br>
@@ -71,5 +71,5 @@ categories: ["ig"]
 | 13h-16h | crianças | 50 |
 
 <table><tr><td>
-<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.guy52kmo88yu"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.f57m1rat443v"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
 </td></tr></table>
