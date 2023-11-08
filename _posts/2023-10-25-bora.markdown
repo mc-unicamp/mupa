@@ -4,7 +4,7 @@ layout: pages
 categories: ["bora"]
 ---
 
-### Saguão de Jogos
+### Exposição "A Milenar Arte chinesa"
 
 | Horário | Faixa etária |
 |---------|--------------|
