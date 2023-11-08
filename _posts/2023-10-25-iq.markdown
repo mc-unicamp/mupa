@@ -36,13 +36,11 @@ categories: ["iq"]
 
 ### Oficina Luminescência Molecular
 
+*Atenção vagas limitadas.*
+
 | Horário | Local | Faixa etária |
 |---------|-------|--------------|
-| 8h30 às 9h30 | Laboratório LIFE | Livre para todas as idades |
-| 10h às 11h | Laboratório LIFE | Livre para todas as idades |
-| 11h30 às 12h30 | Laboratório LIFE | Livre para todas as idades |
-| 13h às 14h | Laboratório LIFE | Livre para todas as idades |
-| 14h30 às 15h30 | Laboratório LIFE | Livre para todas as idades |
+| 8h20 às 15h40 | Laboratório LIFE | Livre para todas as idades |
 
 <table><tr><td>
 <a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.663n48fnmks0"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>

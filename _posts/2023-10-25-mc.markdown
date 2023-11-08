@@ -41,6 +41,18 @@ categories: ["mc"]
 
 <br>
 
+## Museu de História Natural Interativo
+
+| Horário | Faixa etária |
+|---------|--------------|
+| 10h-14h30 | Livre para todas as idades |
+
+<table><tr><td>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRxMEyWuO4DQnDW43l-hKRb2F7CFmbrgeixobIBIGfqF9Ubho6jXBaZMxKrCEFv1Quz31lZEglKb9mk/pub#id.vr2fdxq5xyz"><img style="cursor:pointer" src="{{ site.baseurl }}/img/more.svg"></a>
+</td></tr></table>
+
+<br>
+
 ## Espetáculo Teatral "Plástico, um mito contemporâneo"
 
 | Horário | Faixa etária |
