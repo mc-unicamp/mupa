@@ -21,18 +21,23 @@ Haverá um ônibus circulando pela Unicamp por todos os locais do evento.
 <table width="100%" class="tbmain">
   <tr>
     <td><a href="./ig/">Geociências</a></td>
-    <td><a href="./mc/">Museu Exploratório</a></td>
-    <td><a href="./imecc/">Matemática</a></td>
+    <td><a href="./plasma/">Plasma</a></td>
   </tr>
   <tr>
-    <td><a href="./plasma/">Plasma</a></td>
+    <td><a href="./mc/">Museu Exploratório</a></td>
     <td><a href="./informatica/">Museu da Informática</a></td>
+  </tr>
+  <tr>
+    <td><a href="./ginasio/">Ginásio</a></td>
     <td><a href="./ifgw/">Física</a></td>
   </tr>
   <tr>
+    <td><a href="./bora/">Obras Raras</a></td>
     <td><a href="./iq/">Química</a></td>
-    <td><a href="./ib/">Biologia</a></td>
-    <td><a href="./ginasio/">Ginásio</a></td>
+  </tr>
+  <tr>
+    <td><a href="./imecc/">Matemática</a></td>
+    <td><a href="./ib/">Biologia</a></td>   
   </tr>
 </table>
 
