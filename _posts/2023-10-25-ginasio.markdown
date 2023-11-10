@@ -4,4 +4,32 @@ layout: pages
 categories: ["ginasio"]
 ---
 
-<img src="../img/mapa-gd-2023.png">
+# Mapa Interno do Ginásio
+
+Este é o mapa do Ginásio. A entrada fica onde está indicado como (1) e as barracas de alimentação em (6). Os outros pontos numerados são aqueles preparados para você circular, os demais, estão reservados para competidores e expositores.
+
+<img src="../img/mapa-dentro-ginasio.svg">
+
+No Ginásio acontecerão dois eventos: a Final do Grande Desafio e a Culminância.
+
+# Final do Grande Desafio (Grande Dia)
+
+É um desafio em ciências em que equipes se preparam durante o ano inteiro para o Grande Dia. As apresentações se dividirão em duas grandes trilhas:
+
+## Trilha Experimental
+
+As equipes apresentarão suas soluções para o desafio: como enviar sondas espaciais em segurança para planetas que estão muito distantes de nosso sistema solar?
+
+A parte mais interessante a ser assistida é o lançamento de módulos espaciais, que está destacado no mapa. Você deve assistir exclusivamente da arquibancada (2).
+
+## Trilha Exploratória
+
+Esta trilha é inspirada pela ideia de que a ciência realimenta o cotidiano. Haverá uma apresentação de soluções e pôsteres, com equipamentos inventados e coisas inovadoras como uma tenda interativa. A exposição acontecerá na área destacada no mapa (3).
+
+# Culminância
+
+A culminância da DE Campinas Oeste é um momento que cada uma das 66 escolas estaduais de Ensino Médio mostrarão, por meio de banners, a trajetória e o resultado do desenvolvimento do trabalho de Investigação Científica do Itinerário Formativo.
+
+Neste encontro as escolas apresentarão suas atividades na UNICAMP, universidade parceira que participou do processo de formação dos professores que estiveram à frente do desenvolvimento do eixo da investigação científica com os alunos de Ensino Médio.
+
+A exposição acontecerá no destaque (4).
