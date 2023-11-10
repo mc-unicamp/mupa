@@ -10,26 +10,32 @@ Este é o mapa do Ginásio. A entrada fica onde está indicado como (1) e as bar
 
 <img src="../img/mapa-dentro-ginasio.svg">
 
+| Horário | Evento              | Faixa etária |
+|---------|---------------------|--------------|
+| 9h-11h  | Trilha Experimental | Livre para todas as idades |
+| 13h-15h | Trilha Experimental | Livre para todas as idades |
+| 13h-15h | Trilha Exploratória | Livre para todas as idades |
+| 13h-15h | Trilha Exploratória | Livre para todas as idades |
+| 9h-11h  | Culminância         | Livre para todas as idades |
+
 No Ginásio acontecerão dois eventos: a Final do Grande Desafio e a Culminância.
 
-# Final do Grande Desafio (Grande Dia)
+## Final do Grande Desafio (Grande Dia)
 
 É um desafio em ciências em que equipes se preparam durante o ano inteiro para o Grande Dia. As apresentações se dividirão em duas grandes trilhas:
 
-## Trilha Experimental
+### (2) Lançamento de Módulos da Trilha Experimental
 
 As equipes apresentarão suas soluções para o desafio: como enviar sondas espaciais em segurança para planetas que estão muito distantes de nosso sistema solar?
 
 A parte mais interessante a ser assistida é o lançamento de módulos espaciais, que está destacado no mapa. Você deve assistir exclusivamente da arquibancada (2).
 
-## Trilha Exploratória
+### (3) Exposição da Trilha Exploratória
 
-Esta trilha é inspirada pela ideia de que a ciência realimenta o cotidiano. Haverá uma apresentação de soluções e pôsteres, com equipamentos inventados e coisas inovadoras como uma tenda interativa. A exposição acontecerá na área destacada no mapa (3).
+Esta trilha é inspirada pela ideia de que a ciência realimenta o cotidiano. Haverá uma apresentação de soluções e pôsteres, com equipamentos inventados e coisas inovadoras como uma tenda interativa.
 
-# Culminância
+## (4) Exposição da Culminância
 
 A culminância da DE Campinas Oeste é um momento que cada uma das 66 escolas estaduais de Ensino Médio mostrarão, por meio de banners, a trajetória e o resultado do desenvolvimento do trabalho de Investigação Científica do Itinerário Formativo.
 
 Neste encontro as escolas apresentarão suas atividades na UNICAMP, universidade parceira que participou do processo de formação dos professores que estiveram à frente do desenvolvimento do eixo da investigação científica com os alunos de Ensino Médio.
-
-A exposição acontecerá no destaque (4).
